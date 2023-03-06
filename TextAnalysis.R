@@ -51,11 +51,12 @@ company_count <- df2 %>%
   top_n(5)
 
 # Create a bar chart of the top 5 companies
-ggplot(company_count, aes(x = Company, y = n)) +
+ggplot(company_count, aes(x = n, y = Company)) +
   geom_bar(stat = "identity", fill = "deepskyblue") +
   labs(title = "Top 5 Companies with Most Problems with Fraud Alerts") +
-  xlab("Company") +
-  ylab("Count")
+  xlab("Count") +
+  ylab("Company") +
+  theme(plot.title = element_text(hjust = 1.25))
 
 # Which states deal with fraud alerts the most?
 state_count <- df2 %>%
