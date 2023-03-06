@@ -99,3 +99,10 @@ Finally, the last part of our analysis is a word cloud that compares the most us
 
 ![wordcloud](https://user-images.githubusercontent.com/118494394/223175800-00f0780c-ca9d-40b7-8448-87eadc0687b9.png)
 
+
+# Author
+
+Lina Maatouk
+
+# Credits
+Dr. Brosius
