@@ -75,7 +75,7 @@ For this part, we focus on most common words of fear in top 3 companies with the
 ![FraudComp](https://user-images.githubusercontent.com/118494394/223176162-b9a06318-efea-4903-a4a5-c3d8930f24b5.png)
 
 
-As shown is the graph, for the companies Equifax, Experian and TransUnion, who face the most complains with fraud alert problems, the complaints narrative most common words of fear are: "remove", "bankruptcy", "theft" and "mortgage"
+As shown is the graph, for the companies Equifax, Experian and TransUnion, who face the most complains with fraud alert problems, the complaints narrative most common words of fear are: "remove", "bankruptcy", "theft" and "mortgage".
 
 
 5. Sentiment of fear in the top 3 states:
