@@ -41,7 +41,7 @@ For this question we selected the columns as shown in the first table needed and
 ![SubmissionMode](https://user-images.githubusercontent.com/118494394/223169679-d46924e7-a1cd-4660-bec5-47e54ecf45f1.png)
 
 
-Our graph suggests that most customers submitted their complain via the Web.
+Our graph suggests that most customers submitted their complaint via the Web.
 
 2. Which companies face the most fraud alert probelms?
 
