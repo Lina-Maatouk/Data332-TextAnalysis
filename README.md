@@ -99,7 +99,7 @@ Finally, the last part of our analysis is a word cloud that compares the most us
 ![wordcloud](https://user-images.githubusercontent.com/118494394/223175800-00f0780c-ca9d-40b7-8448-87eadc0687b9.png)
 
 # Shiny app:
-You can find specific words used in the sentiment of fear used by each companies with the highest rate of fraud alert complaints on this shiny app: http://127.0.0.1:4267/ 
+You can find specific words used in the sentiment of fear used by each companies with the highest rate of fraud alert complaints on this shiny app: [http://127.0.0.1:4267/ ](http://127.0.0.1:4267)
 
 # Author
 
