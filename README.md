@@ -67,3 +67,35 @@ The bar chart emphasizes our results:
 
 ![StateFraud](https://user-images.githubusercontent.com/118494394/223169061-a71c9680-debe-475f-8059-a92d2128c2d3.png)
 
+
+4. Sentiment of fear in the top 3 companies:
+
+For this part, we focus on most common words of fear in top 3 companies with the highest rate of fraud alerts. 
+
+![FraudComp](https://user-images.githubusercontent.com/118494394/223176162-b9a06318-efea-4903-a4a5-c3d8930f24b5.png)
+
+
+As shown is the graph, for the companies Equifax, Experian and TransUnion, who face the most complains with fraud alert problems, the complaints narrative most common words of fear are: "remove", "bankruptcy", "theft" and "mortgage"
+
+
+5. Sentiment of fear in the top 3 states:
+
+Similar to part 4 but focusing on the top 3 states.
+
+![FraudStates](https://user-images.githubusercontent.com/118494394/223174513-23142015-954f-4d90-97b0-47a1944830b8.png)
+
+As shown is the graph, for the states California, Florida and Georgia, who face the most complains with fraud alert problems, the complaints narrative most common words of fear are: "mortgage", "case", "remove", "bankruptcy" and "attorney".
+
+
+6. Contribution to sentiment:
+
+The contribution of sentiment analysis tools, such as Bing and NRC, has shed light on the negative and positive sentiments expressed in relation to fraud alerts as shown in the graph below.
+
+![ContributionSentiment](https://user-images.githubusercontent.com/118494394/223175025-7f14a165-3897-46e7-85e7-56fc3115de4d.png)
+
+7. Word cloud:
+
+Finally, the last part of our analysis is a word cloud that compares the most used words in the fraud alert complaints in the top 3 states (CA, FL, GA).
+
+![wordcloud](https://user-images.githubusercontent.com/118494394/223175800-00f0780c-ca9d-40b7-8448-87eadc0687b9.png)
+
