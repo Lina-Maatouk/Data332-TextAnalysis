@@ -9,7 +9,7 @@ library(wordcloud)
 library(sentimentr)
 library(reshape2)
 library(stringr)
-#tidydata?
+
 
 rm(list=ls())
 setwd("C:/Users/linamaatouk21/DATA 332-TextAnalysis")
