@@ -43,7 +43,7 @@ ui <- fluidPage(
 server <- function(input, output) {
   
   maindata <- reactive({
-    dataset %>%
+    df %>%
       filter(Company %in% input$Company) %>%
       filter(word %in% input$Word)
   })
@@ -61,7 +61,7 @@ server <- function(input, output) {
   })
   
   output$table_01 <- DT::renderDataTable(
-    filteredData(), 
+    maindata(), 
     options = list(pageLength = 4)
   )
 }
