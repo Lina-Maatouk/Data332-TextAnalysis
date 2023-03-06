@@ -6,6 +6,7 @@
 Our analysis begins by examining the various modes of complaint submission, including email, fax, web, phone, referral, and post mail. Next, we identify the top three companies with the most fraud alert problems, which are Equifax, Experian, and TransUnion Intermediate Holdings, Inc. We also investigate the top three states with the most fraud alert problems, which are California, Florida, and Georgia.
 
 Finally, we conduct a sentiment analysis using the NRC and Bing lexicons to determine the overall sentiment of the customer complaints. We use the NRC lexicon to identify the sentiment of the complaints such as fear. The Bing lexicon, on the other hand, assigns each word in the complaints a score of either positive or negative.
+You can find specific words used in the sentiment of fear used by each companies with the highest rate of fraud alert complaints on this shiny app: http://127.0.0.1:4267/ 
 
 
 ## Dependencies: 
