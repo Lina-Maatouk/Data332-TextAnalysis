@@ -4,7 +4,6 @@ library(tidyr)
 library(dplyr)
 library(readr)
 library(ggplot2)
-library(gganimate)
 library(wordcloud)
 library(sentimentr)
 library(reshape2)
@@ -12,7 +11,7 @@ library(stringr)
 library(DT)
 
 
-ConsumerData <- readRDS("Consumer_Complaints.csv.rds") %>%
+ConsumerData <- read_rds("Consumer_Complaints.csv.rds") %>%
   dplyr::select(Company, Consumer.complaint.narrative) %>%
   ungroup() %>%
   unnest_tokens(word, Consumer.complaint.narrative)
