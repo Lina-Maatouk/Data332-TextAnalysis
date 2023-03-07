@@ -11,7 +11,6 @@ library(reshape2)
 library(stringr)
 library(DT)
 
-setwd("C:/Users/linamaatouk21/DATA 332-TextAnalysis")
 
 ConsumerData <- readRDS("Consumer_Complaints.csv.rds") %>%
   dplyr::select(Company, Consumer.complaint.narrative) %>%
