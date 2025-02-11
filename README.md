@@ -1,4 +1,4 @@
-# Text Analysis- Sentinment and Fraud Analysis
+# Text Analysis- Sentiment and Fraud Analysis
 
 ## Introduction:
   In this project, we explore a dataset containing customer complaints for multiple companies and states, focusing on issues related to fraud alerts. Through our analysis, we answer several key questions such as the mode of complaint submission, the companies and states with the most fraud alert problems, and the sentiment of the complaints using the NRC and Bing lexicons.
